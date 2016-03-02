@@ -1,4 +1,6 @@
 <?php
+// The MIT License (MIT), see LICENSE file
+// Copyright (c) 2016 Joel Klinghed
 
 // Call to get final zip size in bytes
 function zip_filesize($entries_size) {
